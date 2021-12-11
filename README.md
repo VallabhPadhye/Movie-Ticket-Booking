@@ -1,2 +1,2 @@
 # Movie-Ticket-Booking
-Contributed By @HarshadFate @GunjanJawarkar@HarshadFate
+Contributed By @HarshadFate @GunjanJawarkar @VallabhPadhye
